@@ -1,0 +1,6 @@
+{
+  "name": "TrigVerse: Unit Circle to Sine Wave Visualizer",
+  "description": "An interactive math animation demonstrating how vertical sine slices in the unit circle unfold to construct the sine wave across all four quadrants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
